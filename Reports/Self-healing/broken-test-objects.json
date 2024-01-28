@@ -1,3 +1,24 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Cura_pages_OR/Page_CURA Healthcare Service/button_Login",
+      "brokenLocator": "//button[@id\u003d\u0027btn-login\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//button",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Cura_pages_OR/Page_CURA Healthcare Service/button_Login_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Cura_pages_OR/Page_CURA Healthcare Service/h2_Make Appointment",
+      "brokenLocator": "//section[@id\u003d\u0027appointment\u0027]/div/div/div/h2",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//h2",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Cura_pages_OR/Page_CURA Healthcare Service/h2_Make Appointment_position.png"
+    }
+  ]
 }

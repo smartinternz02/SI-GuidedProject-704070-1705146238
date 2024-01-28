@@ -3,5 +3,5 @@
    <description></description>
    <name>default</name>
    <tag></tag>
-   <defaultProfile>true</defaultProfile>
+   <defaultProfile>false</defaultProfile>
 </GlobalVariableEntities>

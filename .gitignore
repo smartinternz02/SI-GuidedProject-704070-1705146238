@@ -1,6 +1,16 @@
+.gradle
 
-/bin/
-/Libs/
-/.settings/
-/.classpath
-.svn/
+bin
+
+Reports
+
+Libs
+
+output
+
+!output/.gitkeep
+build
+
+.classpath
+
+.project
