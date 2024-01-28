@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Cura_Make_Appointment_003</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3f3915c4-0def-4229-a4d3-b9f8096698dc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>93a9f9b7-7aa6-47ce-ad9d-62bba0f0ae19</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>93a9f9b7-7aa6-47ce-ad9d-62bba0f0ae19</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>
