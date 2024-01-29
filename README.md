@@ -1,4 +1,4 @@
-CURA HealthCare Service Automation Testing
+CURA HealthCare Service Software Automation Testing
 
 Main branch contains
 1. Documents 
