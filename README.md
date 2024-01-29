@@ -3,6 +3,7 @@ CURA HealthCare Service Software Automation Testing
 Main branch contains
 1. Documents 
 2. Recording Video
+   https://www.youtube.com/watch?v=vIOYekT0KbU
 
 my-new-branch contains
 1. Project files
