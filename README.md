@@ -1,4 +1,4 @@
-CURA HealthCare Service Software Automation Testing
+CURA HealthCare Service Software Automation Testing using Katalon
 
 Main branch contains
 1. Documents
