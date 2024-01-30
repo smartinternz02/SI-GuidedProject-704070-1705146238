@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Cura_Home_Login_002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a771b7ed-c8a7-405a-aef9-c1600431935e</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>86412915-0f2b-40b3-ac0e-3645a5cfdca2</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Cura_TestData/Cura_TestData_Excel_Login</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>86412915-0f2b-40b3-ac0e-3645a5cfdca2</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>UserName</value>
+      <variableId>c2da5049-bae3-4051-a501-add501a24f88</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>86412915-0f2b-40b3-ac0e-3645a5cfdca2</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Password</value>
+      <variableId>5660f887-2aaf-45c3-b775-534526240f96</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c2da5049-bae3-4051-a501-add501a24f88</id>
+      <masked>false</masked>
+      <name>UserName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5660f887-2aaf-45c3-b775-534526240f96</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
