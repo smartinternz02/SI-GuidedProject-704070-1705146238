@@ -20,5 +20,5 @@ Main branch contains
    - Keywords
    - Checkpoints  
 3. Recording Video
-   - mp3 Demo video uploaded
+   - mp4 Demo video uploaded
    - https://www.youtube.com/watch?v=Y4nfbKDAB-o
