@@ -9,6 +9,7 @@ Main branch contains
    - Test case Document
    - Test Plan Document
    - Test Data
+   - Reports
 2. Project Files
    - Test Cases
    - Object Repository
